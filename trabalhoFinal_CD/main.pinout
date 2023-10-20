@@ -1,0 +1,14 @@
+a = segd0.a_on;
+b = segd0.b_on;
+c = segd0.c_on;
+d = segd0.d_on;
+e = segd0.e_on;
+f = segd0.f_on;
+g = segd0.g_on;
+ini = sw9;
+set = btn1;
+reset = btn2;
+enable = sw0;
+clock = clk_1hz;
+
+up = sw1;
